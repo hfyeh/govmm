@@ -1,3 +1,3 @@
-module github.com/kata-containers/govmm
+module github.com/hfyeh/govmm
 
 go 1.16
